@@ -161,6 +161,7 @@ thrdpool_t *thrdpool_create(size_t nthreads, size_t stacksize)
 				pool->nthreads = 0;
 				memset(&pool->tid, 0, sizeof (pthread_t));
 				pool->terminate = NULL;
+				// 创建好多个线程，线程参数是 pool 有默认执行函数，不断从消息队列中取消息，执行消息绑定着的 handler
 				if (__thrdpool_create_threads(nthreads, pool) >= 0)
 					return pool;
 
