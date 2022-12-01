@@ -1,0 +1,418 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"hasInstallRule" : true,
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "src",
+					"childIndexes" : 
+					[
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10
+					],
+					"hasInstallRule" : true,
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "src",
+					"targetIndexes" : 
+					[
+						10,
+						11
+					]
+				},
+				{
+					"build" : "src/kernel",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 1,
+					"source" : "src/kernel",
+					"targetIndexes" : 
+					[
+						4
+					]
+				},
+				{
+					"build" : "src/util",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 2,
+					"source" : "src/util",
+					"targetIndexes" : 
+					[
+						9
+					]
+				},
+				{
+					"build" : "src/manager",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 3,
+					"source" : "src/manager",
+					"targetIndexes" : 
+					[
+						5
+					]
+				},
+				{
+					"build" : "src/algorithm",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 4,
+					"source" : "src/algorithm",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "src/protocol",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 5,
+					"source" : "src/protocol",
+					"targetIndexes" : 
+					[
+						7
+					]
+				},
+				{
+					"build" : "src/factory",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 6,
+					"source" : "src/factory",
+					"targetIndexes" : 
+					[
+						3
+					]
+				},
+				{
+					"build" : "src/nameservice",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 7,
+					"source" : "src/nameservice",
+					"targetIndexes" : 
+					[
+						6
+					]
+				},
+				{
+					"build" : "src/server",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 8,
+					"source" : "src/server",
+					"targetIndexes" : 
+					[
+						8
+					]
+				},
+				{
+					"build" : "src/client",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 9,
+					"source" : "src/client",
+					"targetIndexes" : 
+					[
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					],
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "workflow",
+					"targetIndexes" : 
+					[
+						0,
+						10,
+						11
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						2
+					],
+					"name" : "kernel",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						4
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						3
+					],
+					"name" : "util",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						9
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						4
+					],
+					"name" : "manager",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						5
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						5
+					],
+					"name" : "algorithm",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						6
+					],
+					"name" : "protocol",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						7
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						7
+					],
+					"name" : "factory",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						3
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						8
+					],
+					"name" : "nameservice",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						6
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						9
+					],
+					"name" : "server",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						8
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						10
+					],
+					"name" : "client",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "LINK_HEADERS::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-LINK_HEADERS-Debug-487ce1d78164de5b6405.json",
+					"name" : "LINK_HEADERS",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "algorithm::@a80f46a3f2edefeefe67",
+					"jsonFile" : "target-algorithm-Debug-83019f83f5178b263260.json",
+					"name" : "algorithm",
+					"projectIndex" : 4
+				},
+				{
+					"directoryIndex" : 10,
+					"id" : "client::@8ca63c80a879d0067daa",
+					"jsonFile" : "target-client-Debug-fa7f399f0f6552b1b38d.json",
+					"name" : "client",
+					"projectIndex" : 9
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "factory::@fe291e6479ff98ed29de",
+					"jsonFile" : "target-factory-Debug-5da321aff6412a5275bd.json",
+					"name" : "factory",
+					"projectIndex" : 6
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "kernel::@a2e5c2148a26843338a5",
+					"jsonFile" : "target-kernel-Debug-a0279425b2e86f98dff2.json",
+					"name" : "kernel",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "manager::@0e432621a547d2c1ca95",
+					"jsonFile" : "target-manager-Debug-cfb3c14478b1310ae0d3.json",
+					"name" : "manager",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 8,
+					"id" : "nameservice::@49d58ca331c4c82d73dd",
+					"jsonFile" : "target-nameservice-Debug-8fd11c636e56e0314185.json",
+					"name" : "nameservice",
+					"projectIndex" : 7
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "protocol::@265c2c6246c6aa3fd761",
+					"jsonFile" : "target-protocol-Debug-06776eadbba34df252ae.json",
+					"name" : "protocol",
+					"projectIndex" : 5
+				},
+				{
+					"directoryIndex" : 9,
+					"id" : "server::@2804e40980a64c7d7ad1",
+					"jsonFile" : "target-server-Debug-614159a962dc68146e8b.json",
+					"name" : "server",
+					"projectIndex" : 8
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "util::@6bc12a100e338ba65b7b",
+					"jsonFile" : "target-util-Debug-7f07886830b72024e30f.json",
+					"name" : "util",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "workflow-shared::@145eef247bfb46b6828c",
+					"jsonFile" : "target-workflow-shared-Debug-e8e61910e701b2f32d17.json",
+					"name" : "workflow-shared",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "workflow-static::@145eef247bfb46b6828c",
+					"jsonFile" : "target-workflow-static-Debug-0f4a16303fdcfc8c954d.json",
+					"name" : "workflow-static",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/wakk/cpp_learn/workflow/build",
+		"source" : "/home/wakk/cpp_learn/workflow"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 0
+	}
+}

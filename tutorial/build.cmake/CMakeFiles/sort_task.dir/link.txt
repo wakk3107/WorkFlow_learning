@@ -1,0 +1,1 @@
+/usr/bin/c++   -Wall -fPIC -pipe -std=c++11 -fno-exceptions -O2 -g -DNDEBUG   CMakeFiles/sort_task.dir/tutorial-07-sort_task.cc.o  -o ../sort_task   -L/home/wakk/cpp_learn/workflow/_lib  -Wl,-rpath,/home/wakk/cpp_learn/workflow/_lib -lworkflow -lpthread /usr/lib/x86_64-linux-gnu/libssl.so /usr/lib/x86_64-linux-gnu/libcrypto.so /usr/lib/x86_64-linux-gnu/librt.so 

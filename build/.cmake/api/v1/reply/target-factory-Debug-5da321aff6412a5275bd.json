@@ -1,0 +1,206 @@
+{
+	"artifacts" : 
+	[
+		{
+			"path" : "src/factory/CMakeFiles/factory.dir/WFGraphTask.cc.o"
+		},
+		{
+			"path" : "src/factory/CMakeFiles/factory.dir/DnsTaskImpl.cc.o"
+		},
+		{
+			"path" : "src/factory/CMakeFiles/factory.dir/WFTaskFactory.cc.o"
+		},
+		{
+			"path" : "src/factory/CMakeFiles/factory.dir/Workflow.cc.o"
+		},
+		{
+			"path" : "src/factory/CMakeFiles/factory.dir/HttpTaskImpl.cc.o"
+		},
+		{
+			"path" : "src/factory/CMakeFiles/factory.dir/WFResourcePool.cc.o"
+		},
+		{
+			"path" : "src/factory/CMakeFiles/factory.dir/WFMessageQueue.cc.o"
+		},
+		{
+			"path" : "src/factory/CMakeFiles/factory.dir/FileTaskImpl.cc.o"
+		},
+		{
+			"path" : "src/factory/CMakeFiles/factory.dir/MySQLTaskImpl.cc.o"
+		},
+		{
+			"path" : "src/factory/CMakeFiles/factory.dir/RedisTaskImpl.cc.o"
+		}
+	],
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library",
+			"add_dependencies",
+			"include_directories"
+		],
+		"files" : 
+		[
+			"src/factory/CMakeLists.txt",
+			"src/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 29,
+				"parent" : 0
+			},
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 36,
+				"parent" : 2
+			},
+			{
+				"command" : 2,
+				"file" : 1,
+				"line" : 10,
+				"parent" : 2
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : " -Wall -fPIC -pipe -std=c++11 -fno-exceptions -Wno-invalid-offsetof -g  "
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 4,
+					"path" : "/home/wakk/cpp_learn/workflow/_include/workflow"
+				}
+			],
+			"language" : "CXX",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9
+			]
+		}
+	],
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 3,
+			"id" : "LINK_HEADERS::@6890427a1f51a3e7e1df"
+		}
+	],
+	"id" : "factory::@fe291e6479ff98ed29de",
+	"name" : "factory",
+	"paths" : 
+	{
+		"build" : "src/factory",
+		"source" : "src/factory"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/factory/WFGraphTask.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/factory/DnsTaskImpl.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/factory/WFTaskFactory.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/factory/Workflow.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/factory/HttpTaskImpl.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/factory/WFResourcePool.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/factory/WFMessageQueue.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/factory/FileTaskImpl.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/factory/MySQLTaskImpl.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/factory/RedisTaskImpl.cc",
+			"sourceGroupIndex" : 0
+		}
+	],
+	"type" : "OBJECT_LIBRARY"
+}

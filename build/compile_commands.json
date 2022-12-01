@@ -1,0 +1,277 @@
+[
+{
+  "directory": "/home/wakk/cpp_learn/workflow/build/src/kernel",
+  "command": "/usr/bin/clang++-12   -I/home/wakk/cpp_learn/workflow/_include/workflow   -Wall -fPIC -pipe -std=c++11 -fno-exceptions -Wno-invalid-offsetof -g   -o CMakeFiles/kernel.dir/IOService_linux.cc.o -c /home/wakk/cpp_learn/workflow/src/kernel/IOService_linux.cc",
+  "file": "/home/wakk/cpp_learn/workflow/src/kernel/IOService_linux.cc"
+},
+{
+  "directory": "/home/wakk/cpp_learn/workflow/build/src/kernel",
+  "command": "/usr/bin/clang-12  -I/home/wakk/cpp_learn/workflow/_include/workflow     -Wall -fPIC -pipe -std=gnu90 -g   -o CMakeFiles/kernel.dir/mpoller.c.o   -c /home/wakk/cpp_learn/workflow/src/kernel/mpoller.c",
+  "file": "/home/wakk/cpp_learn/workflow/src/kernel/mpoller.c"
+},
+{
+  "directory": "/home/wakk/cpp_learn/workflow/build/src/kernel",
+  "command": "/usr/bin/clang-12  -I/home/wakk/cpp_learn/workflow/_include/workflow     -Wall -fPIC -pipe -std=gnu90 -g   -o CMakeFiles/kernel.dir/poller.c.o   -c /home/wakk/cpp_learn/workflow/src/kernel/poller.c",
+  "file": "/home/wakk/cpp_learn/workflow/src/kernel/poller.c"
+},
+{
+  "directory": "/home/wakk/cpp_learn/workflow/build/src/kernel",
+  "command": "/usr/bin/clang-12  -I/home/wakk/cpp_learn/workflow/_include/workflow     -Wall -fPIC -pipe -std=gnu90 -g   -o CMakeFiles/kernel.dir/rbtree.c.o   -c /home/wakk/cpp_learn/workflow/src/kernel/rbtree.c",
+  "file": "/home/wakk/cpp_learn/workflow/src/kernel/rbtree.c"
+},
+{
+  "directory": "/home/wakk/cpp_learn/workflow/build/src/kernel",
+  "command": "/usr/bin/clang-12  -I/home/wakk/cpp_learn/workflow/_include/workflow     -Wall -fPIC -pipe -std=gnu90 -g   -o CMakeFiles/kernel.dir/msgqueue.c.o   -c /home/wakk/cpp_learn/workflow/src/kernel/msgqueue.c",
+  "file": "/home/wakk/cpp_learn/workflow/src/kernel/msgqueue.c"
+},
+{
+  "directory": "/home/wakk/cpp_learn/workflow/build/src/kernel",
+  "command": "/usr/bin/clang-12  -I/home/wakk/cpp_learn/workflow/_include/workflow     -Wall -fPIC -pipe -std=gnu90 -g   -o CMakeFiles/kernel.dir/thrdpool.c.o   -c /home/wakk/cpp_learn/workflow/src/kernel/thrdpool.c",
+  "file": "/home/wakk/cpp_learn/workflow/src/kernel/thrdpool.c"
+},
+{
+  "directory": "/home/wakk/cpp_learn/workflow/build/src/kernel",
+  "command": "/usr/bin/clang++-12   -I/home/wakk/cpp_learn/workflow/_include/workflow   -Wall -fPIC -pipe -std=c++11 -fno-exceptions -Wno-invalid-offsetof -g   -o CMakeFiles/kernel.dir/CommRequest.cc.o -c /home/wakk/cpp_learn/workflow/src/kernel/CommRequest.cc",
+  "file": "/home/wakk/cpp_learn/workflow/src/kernel/CommRequest.cc"
+},
+{
+  "directory": "/home/wakk/cpp_learn/workflow/build/src/kernel",
+  "command": "/usr/bin/clang++-12   -I/home/wakk/cpp_learn/workflow/_include/workflow   -Wall -fPIC -pipe -std=c++11 -fno-exceptions -Wno-invalid-offsetof -g   -o CMakeFiles/kernel.dir/CommScheduler.cc.o -c /home/wakk/cpp_learn/workflow/src/kernel/CommScheduler.cc",
+  "file": "/home/wakk/cpp_learn/workflow/src/kernel/CommScheduler.cc"
+},
+{
+  "directory": "/home/wakk/cpp_learn/workflow/build/src/kernel",
+  "command": "/usr/bin/clang++-12   -I/home/wakk/cpp_learn/workflow/_include/workflow   -Wall -fPIC -pipe -std=c++11 -fno-exceptions -Wno-invalid-offsetof -g   -o CMakeFiles/kernel.dir/Communicator.cc.o -c /home/wakk/cpp_learn/workflow/src/kernel/Communicator.cc",
+  "file": "/home/wakk/cpp_learn/workflow/src/kernel/Communicator.cc"
+},
+{
+  "directory": "/home/wakk/cpp_learn/workflow/build/src/kernel",
+  "command": "/usr/bin/clang++-12   -I/home/wakk/cpp_learn/workflow/_include/workflow   -Wall -fPIC -pipe -std=c++11 -fno-exceptions -Wno-invalid-offsetof -g   -o CMakeFiles/kernel.dir/Executor.cc.o -c /home/wakk/cpp_learn/workflow/src/kernel/Executor.cc",
+  "file": "/home/wakk/cpp_learn/workflow/src/kernel/Executor.cc"
+},
+{
+  "directory": "/home/wakk/cpp_learn/workflow/build/src/kernel",
+  "command": "/usr/bin/clang++-12   -I/home/wakk/cpp_learn/workflow/_include/workflow   -Wall -fPIC -pipe -std=c++11 -fno-exceptions -Wno-invalid-offsetof -g   -o CMakeFiles/kernel.dir/SubTask.cc.o -c /home/wakk/cpp_learn/workflow/src/kernel/SubTask.cc",
+  "file": "/home/wakk/cpp_learn/workflow/src/kernel/SubTask.cc"
+},
+{
+  "directory": "/home/wakk/cpp_learn/workflow/build/src/util",
+  "command": "/usr/bin/clang-12  -I/home/wakk/cpp_learn/workflow/_include/workflow     -Wall -fPIC -pipe -std=gnu90 -g   -o CMakeFiles/util.dir/json_parser.c.o   -c /home/wakk/cpp_learn/workflow/src/util/json_parser.c",
+  "file": "/home/wakk/cpp_learn/workflow/src/util/json_parser.c"
+},
+{
+  "directory": "/home/wakk/cpp_learn/workflow/build/src/util",
+  "command": "/usr/bin/clang++-12   -I/home/wakk/cpp_learn/workflow/_include/workflow   -Wall -fPIC -pipe -std=c++11 -fno-exceptions -Wno-invalid-offsetof -g   -o CMakeFiles/util.dir/EncodeStream.cc.o -c /home/wakk/cpp_learn/workflow/src/util/EncodeStream.cc",
+  "file": "/home/wakk/cpp_learn/workflow/src/util/EncodeStream.cc"
+},
+{
+  "directory": "/home/wakk/cpp_learn/workflow/build/src/util",
+  "command": "/usr/bin/clang++-12   -I/home/wakk/cpp_learn/workflow/_include/workflow   -Wall -fPIC -pipe -std=c++11 -fno-exceptions -Wno-invalid-offsetof -g   -o CMakeFiles/util.dir/StringUtil.cc.o -c /home/wakk/cpp_learn/workflow/src/util/StringUtil.cc",
+  "file": "/home/wakk/cpp_learn/workflow/src/util/StringUtil.cc"
+},
+{
+  "directory": "/home/wakk/cpp_learn/workflow/build/src/util",
+  "command": "/usr/bin/clang++-12   -I/home/wakk/cpp_learn/workflow/_include/workflow   -Wall -fPIC -pipe -std=c++11 -fno-exceptions -Wno-invalid-offsetof -g   -o CMakeFiles/util.dir/URIParser.cc.o -c /home/wakk/cpp_learn/workflow/src/util/URIParser.cc",
+  "file": "/home/wakk/cpp_learn/workflow/src/util/URIParser.cc"
+},
+{
+  "directory": "/home/wakk/cpp_learn/workflow/build/src/manager",
+  "command": "/usr/bin/clang++-12   -I/home/wakk/cpp_learn/workflow/_include/workflow   -Wall -fPIC -pipe -std=c++11 -fno-exceptions -Wno-invalid-offsetof -g   -o CMakeFiles/manager.dir/DnsCache.cc.o -c /home/wakk/cpp_learn/workflow/src/manager/DnsCache.cc",
+  "file": "/home/wakk/cpp_learn/workflow/src/manager/DnsCache.cc"
+},
+{
+  "directory": "/home/wakk/cpp_learn/workflow/build/src/manager",
+  "command": "/usr/bin/clang++-12   -I/home/wakk/cpp_learn/workflow/_include/workflow   -Wall -fPIC -pipe -std=c++11 -fno-exceptions -Wno-invalid-offsetof -g   -o CMakeFiles/manager.dir/RouteManager.cc.o -c /home/wakk/cpp_learn/workflow/src/manager/RouteManager.cc",
+  "file": "/home/wakk/cpp_learn/workflow/src/manager/RouteManager.cc"
+},
+{
+  "directory": "/home/wakk/cpp_learn/workflow/build/src/manager",
+  "command": "/usr/bin/clang++-12   -I/home/wakk/cpp_learn/workflow/_include/workflow   -Wall -fPIC -pipe -std=c++11 -fno-exceptions -Wno-invalid-offsetof -g   -o CMakeFiles/manager.dir/WFGlobal.cc.o -c /home/wakk/cpp_learn/workflow/src/manager/WFGlobal.cc",
+  "file": "/home/wakk/cpp_learn/workflow/src/manager/WFGlobal.cc"
+},
+{
+  "directory": "/home/wakk/cpp_learn/workflow/build/src/manager",
+  "command": "/usr/bin/clang++-12   -I/home/wakk/cpp_learn/workflow/_include/workflow   -Wall -fPIC -pipe -std=c++11 -fno-exceptions -Wno-invalid-offsetof -g   -o CMakeFiles/manager.dir/UpstreamManager.cc.o -c /home/wakk/cpp_learn/workflow/src/manager/UpstreamManager.cc",
+  "file": "/home/wakk/cpp_learn/workflow/src/manager/UpstreamManager.cc"
+},
+{
+  "directory": "/home/wakk/cpp_learn/workflow/build/src/algorithm",
+  "command": "/usr/bin/clang++-12   -I/home/wakk/cpp_learn/workflow/_include/workflow   -Wall -fPIC -pipe -std=c++11 -fno-exceptions -Wno-invalid-offsetof -g   -o CMakeFiles/algorithm.dir/DnsRoutine.cc.o -c /home/wakk/cpp_learn/workflow/src/algorithm/DnsRoutine.cc",
+  "file": "/home/wakk/cpp_learn/workflow/src/algorithm/DnsRoutine.cc"
+},
+{
+  "directory": "/home/wakk/cpp_learn/workflow/build/src/protocol",
+  "command": "/usr/bin/clang++-12   -I/home/wakk/cpp_learn/workflow/_include/workflow   -Wall -fPIC -pipe -std=c++11 -fno-exceptions -Wno-invalid-offsetof -g   -o CMakeFiles/protocol.dir/PackageWrapper.cc.o -c /home/wakk/cpp_learn/workflow/src/protocol/PackageWrapper.cc",
+  "file": "/home/wakk/cpp_learn/workflow/src/protocol/PackageWrapper.cc"
+},
+{
+  "directory": "/home/wakk/cpp_learn/workflow/build/src/protocol",
+  "command": "/usr/bin/clang++-12   -I/home/wakk/cpp_learn/workflow/_include/workflow   -Wall -fPIC -pipe -std=c++11 -fno-exceptions -Wno-invalid-offsetof -g   -o CMakeFiles/protocol.dir/SSLWrapper.cc.o -c /home/wakk/cpp_learn/workflow/src/protocol/SSLWrapper.cc",
+  "file": "/home/wakk/cpp_learn/workflow/src/protocol/SSLWrapper.cc"
+},
+{
+  "directory": "/home/wakk/cpp_learn/workflow/build/src/protocol",
+  "command": "/usr/bin/clang-12  -I/home/wakk/cpp_learn/workflow/_include/workflow     -Wall -fPIC -pipe -std=gnu90 -g   -o CMakeFiles/protocol.dir/dns_parser.c.o   -c /home/wakk/cpp_learn/workflow/src/protocol/dns_parser.c",
+  "file": "/home/wakk/cpp_learn/workflow/src/protocol/dns_parser.c"
+},
+{
+  "directory": "/home/wakk/cpp_learn/workflow/build/src/protocol",
+  "command": "/usr/bin/clang++-12   -I/home/wakk/cpp_learn/workflow/_include/workflow   -Wall -fPIC -pipe -std=c++11 -fno-exceptions -Wno-invalid-offsetof -g   -o CMakeFiles/protocol.dir/DnsMessage.cc.o -c /home/wakk/cpp_learn/workflow/src/protocol/DnsMessage.cc",
+  "file": "/home/wakk/cpp_learn/workflow/src/protocol/DnsMessage.cc"
+},
+{
+  "directory": "/home/wakk/cpp_learn/workflow/build/src/protocol",
+  "command": "/usr/bin/clang++-12   -I/home/wakk/cpp_learn/workflow/_include/workflow   -Wall -fPIC -pipe -std=c++11 -fno-exceptions -Wno-invalid-offsetof -g   -o CMakeFiles/protocol.dir/DnsUtil.cc.o -c /home/wakk/cpp_learn/workflow/src/protocol/DnsUtil.cc",
+  "file": "/home/wakk/cpp_learn/workflow/src/protocol/DnsUtil.cc"
+},
+{
+  "directory": "/home/wakk/cpp_learn/workflow/build/src/protocol",
+  "command": "/usr/bin/clang-12  -I/home/wakk/cpp_learn/workflow/_include/workflow     -Wall -fPIC -pipe -std=gnu90 -g   -o CMakeFiles/protocol.dir/http_parser.c.o   -c /home/wakk/cpp_learn/workflow/src/protocol/http_parser.c",
+  "file": "/home/wakk/cpp_learn/workflow/src/protocol/http_parser.c"
+},
+{
+  "directory": "/home/wakk/cpp_learn/workflow/build/src/protocol",
+  "command": "/usr/bin/clang++-12   -I/home/wakk/cpp_learn/workflow/_include/workflow   -Wall -fPIC -pipe -std=c++11 -fno-exceptions -Wno-invalid-offsetof -g   -o CMakeFiles/protocol.dir/HttpMessage.cc.o -c /home/wakk/cpp_learn/workflow/src/protocol/HttpMessage.cc",
+  "file": "/home/wakk/cpp_learn/workflow/src/protocol/HttpMessage.cc"
+},
+{
+  "directory": "/home/wakk/cpp_learn/workflow/build/src/protocol",
+  "command": "/usr/bin/clang++-12   -I/home/wakk/cpp_learn/workflow/_include/workflow   -Wall -fPIC -pipe -std=c++11 -fno-exceptions -Wno-invalid-offsetof -g   -o CMakeFiles/protocol.dir/HttpUtil.cc.o -c /home/wakk/cpp_learn/workflow/src/protocol/HttpUtil.cc",
+  "file": "/home/wakk/cpp_learn/workflow/src/protocol/HttpUtil.cc"
+},
+{
+  "directory": "/home/wakk/cpp_learn/workflow/build/src/protocol",
+  "command": "/usr/bin/clang-12  -I/home/wakk/cpp_learn/workflow/_include/workflow     -Wall -fPIC -pipe -std=gnu90 -g   -o CMakeFiles/protocol.dir/mysql_stream.c.o   -c /home/wakk/cpp_learn/workflow/src/protocol/mysql_stream.c",
+  "file": "/home/wakk/cpp_learn/workflow/src/protocol/mysql_stream.c"
+},
+{
+  "directory": "/home/wakk/cpp_learn/workflow/build/src/protocol",
+  "command": "/usr/bin/clang-12  -I/home/wakk/cpp_learn/workflow/_include/workflow     -Wall -fPIC -pipe -std=gnu90 -g   -o CMakeFiles/protocol.dir/mysql_parser.c.o   -c /home/wakk/cpp_learn/workflow/src/protocol/mysql_parser.c",
+  "file": "/home/wakk/cpp_learn/workflow/src/protocol/mysql_parser.c"
+},
+{
+  "directory": "/home/wakk/cpp_learn/workflow/build/src/protocol",
+  "command": "/usr/bin/clang-12  -I/home/wakk/cpp_learn/workflow/_include/workflow     -Wall -fPIC -pipe -std=gnu90 -g   -o CMakeFiles/protocol.dir/mysql_byteorder.c.o   -c /home/wakk/cpp_learn/workflow/src/protocol/mysql_byteorder.c",
+  "file": "/home/wakk/cpp_learn/workflow/src/protocol/mysql_byteorder.c"
+},
+{
+  "directory": "/home/wakk/cpp_learn/workflow/build/src/protocol",
+  "command": "/usr/bin/clang++-12   -I/home/wakk/cpp_learn/workflow/_include/workflow   -Wall -fPIC -pipe -std=c++11 -fno-exceptions -Wno-invalid-offsetof -g   -o CMakeFiles/protocol.dir/MySQLMessage.cc.o -c /home/wakk/cpp_learn/workflow/src/protocol/MySQLMessage.cc",
+  "file": "/home/wakk/cpp_learn/workflow/src/protocol/MySQLMessage.cc"
+},
+{
+  "directory": "/home/wakk/cpp_learn/workflow/build/src/protocol",
+  "command": "/usr/bin/clang++-12   -I/home/wakk/cpp_learn/workflow/_include/workflow   -Wall -fPIC -pipe -std=c++11 -fno-exceptions -Wno-invalid-offsetof -g   -o CMakeFiles/protocol.dir/MySQLResult.cc.o -c /home/wakk/cpp_learn/workflow/src/protocol/MySQLResult.cc",
+  "file": "/home/wakk/cpp_learn/workflow/src/protocol/MySQLResult.cc"
+},
+{
+  "directory": "/home/wakk/cpp_learn/workflow/build/src/protocol",
+  "command": "/usr/bin/clang++-12   -I/home/wakk/cpp_learn/workflow/_include/workflow   -Wall -fPIC -pipe -std=c++11 -fno-exceptions -Wno-invalid-offsetof -g   -o CMakeFiles/protocol.dir/MySQLUtil.cc.o -c /home/wakk/cpp_learn/workflow/src/protocol/MySQLUtil.cc",
+  "file": "/home/wakk/cpp_learn/workflow/src/protocol/MySQLUtil.cc"
+},
+{
+  "directory": "/home/wakk/cpp_learn/workflow/build/src/protocol",
+  "command": "/usr/bin/clang-12  -I/home/wakk/cpp_learn/workflow/_include/workflow     -Wall -fPIC -pipe -std=gnu90 -g   -o CMakeFiles/protocol.dir/redis_parser.c.o   -c /home/wakk/cpp_learn/workflow/src/protocol/redis_parser.c",
+  "file": "/home/wakk/cpp_learn/workflow/src/protocol/redis_parser.c"
+},
+{
+  "directory": "/home/wakk/cpp_learn/workflow/build/src/protocol",
+  "command": "/usr/bin/clang++-12   -I/home/wakk/cpp_learn/workflow/_include/workflow   -Wall -fPIC -pipe -std=c++11 -fno-exceptions -Wno-invalid-offsetof -g   -o CMakeFiles/protocol.dir/RedisMessage.cc.o -c /home/wakk/cpp_learn/workflow/src/protocol/RedisMessage.cc",
+  "file": "/home/wakk/cpp_learn/workflow/src/protocol/RedisMessage.cc"
+},
+{
+  "directory": "/home/wakk/cpp_learn/workflow/build/src/factory",
+  "command": "/usr/bin/clang++-12   -I/home/wakk/cpp_learn/workflow/_include/workflow   -Wall -fPIC -pipe -std=c++11 -fno-exceptions -Wno-invalid-offsetof -g   -o CMakeFiles/factory.dir/WFGraphTask.cc.o -c /home/wakk/cpp_learn/workflow/src/factory/WFGraphTask.cc",
+  "file": "/home/wakk/cpp_learn/workflow/src/factory/WFGraphTask.cc"
+},
+{
+  "directory": "/home/wakk/cpp_learn/workflow/build/src/factory",
+  "command": "/usr/bin/clang++-12   -I/home/wakk/cpp_learn/workflow/_include/workflow   -Wall -fPIC -pipe -std=c++11 -fno-exceptions -Wno-invalid-offsetof -g   -o CMakeFiles/factory.dir/DnsTaskImpl.cc.o -c /home/wakk/cpp_learn/workflow/src/factory/DnsTaskImpl.cc",
+  "file": "/home/wakk/cpp_learn/workflow/src/factory/DnsTaskImpl.cc"
+},
+{
+  "directory": "/home/wakk/cpp_learn/workflow/build/src/factory",
+  "command": "/usr/bin/clang++-12   -I/home/wakk/cpp_learn/workflow/_include/workflow   -Wall -fPIC -pipe -std=c++11 -fno-exceptions -Wno-invalid-offsetof -g   -o CMakeFiles/factory.dir/WFTaskFactory.cc.o -c /home/wakk/cpp_learn/workflow/src/factory/WFTaskFactory.cc",
+  "file": "/home/wakk/cpp_learn/workflow/src/factory/WFTaskFactory.cc"
+},
+{
+  "directory": "/home/wakk/cpp_learn/workflow/build/src/factory",
+  "command": "/usr/bin/clang++-12   -I/home/wakk/cpp_learn/workflow/_include/workflow   -Wall -fPIC -pipe -std=c++11 -fno-exceptions -Wno-invalid-offsetof -g   -o CMakeFiles/factory.dir/Workflow.cc.o -c /home/wakk/cpp_learn/workflow/src/factory/Workflow.cc",
+  "file": "/home/wakk/cpp_learn/workflow/src/factory/Workflow.cc"
+},
+{
+  "directory": "/home/wakk/cpp_learn/workflow/build/src/factory",
+  "command": "/usr/bin/clang++-12   -I/home/wakk/cpp_learn/workflow/_include/workflow   -Wall -fPIC -pipe -std=c++11 -fno-exceptions -Wno-invalid-offsetof -g   -o CMakeFiles/factory.dir/HttpTaskImpl.cc.o -c /home/wakk/cpp_learn/workflow/src/factory/HttpTaskImpl.cc",
+  "file": "/home/wakk/cpp_learn/workflow/src/factory/HttpTaskImpl.cc"
+},
+{
+  "directory": "/home/wakk/cpp_learn/workflow/build/src/factory",
+  "command": "/usr/bin/clang++-12   -I/home/wakk/cpp_learn/workflow/_include/workflow   -Wall -fPIC -pipe -std=c++11 -fno-exceptions -Wno-invalid-offsetof -g   -o CMakeFiles/factory.dir/WFResourcePool.cc.o -c /home/wakk/cpp_learn/workflow/src/factory/WFResourcePool.cc",
+  "file": "/home/wakk/cpp_learn/workflow/src/factory/WFResourcePool.cc"
+},
+{
+  "directory": "/home/wakk/cpp_learn/workflow/build/src/factory",
+  "command": "/usr/bin/clang++-12   -I/home/wakk/cpp_learn/workflow/_include/workflow   -Wall -fPIC -pipe -std=c++11 -fno-exceptions -Wno-invalid-offsetof -g   -o CMakeFiles/factory.dir/WFMessageQueue.cc.o -c /home/wakk/cpp_learn/workflow/src/factory/WFMessageQueue.cc",
+  "file": "/home/wakk/cpp_learn/workflow/src/factory/WFMessageQueue.cc"
+},
+{
+  "directory": "/home/wakk/cpp_learn/workflow/build/src/factory",
+  "command": "/usr/bin/clang++-12   -I/home/wakk/cpp_learn/workflow/_include/workflow   -Wall -fPIC -pipe -std=c++11 -fno-exceptions -Wno-invalid-offsetof -g   -o CMakeFiles/factory.dir/FileTaskImpl.cc.o -c /home/wakk/cpp_learn/workflow/src/factory/FileTaskImpl.cc",
+  "file": "/home/wakk/cpp_learn/workflow/src/factory/FileTaskImpl.cc"
+},
+{
+  "directory": "/home/wakk/cpp_learn/workflow/build/src/factory",
+  "command": "/usr/bin/clang++-12   -I/home/wakk/cpp_learn/workflow/_include/workflow   -Wall -fPIC -pipe -std=c++11 -fno-exceptions -Wno-invalid-offsetof -g   -o CMakeFiles/factory.dir/MySQLTaskImpl.cc.o -c /home/wakk/cpp_learn/workflow/src/factory/MySQLTaskImpl.cc",
+  "file": "/home/wakk/cpp_learn/workflow/src/factory/MySQLTaskImpl.cc"
+},
+{
+  "directory": "/home/wakk/cpp_learn/workflow/build/src/factory",
+  "command": "/usr/bin/clang++-12   -I/home/wakk/cpp_learn/workflow/_include/workflow   -Wall -fPIC -pipe -std=c++11 -fno-exceptions -Wno-invalid-offsetof -g   -o CMakeFiles/factory.dir/RedisTaskImpl.cc.o -c /home/wakk/cpp_learn/workflow/src/factory/RedisTaskImpl.cc",
+  "file": "/home/wakk/cpp_learn/workflow/src/factory/RedisTaskImpl.cc"
+},
+{
+  "directory": "/home/wakk/cpp_learn/workflow/build/src/nameservice",
+  "command": "/usr/bin/clang++-12   -I/home/wakk/cpp_learn/workflow/_include/workflow   -Wall -fPIC -pipe -std=c++11 -fno-exceptions -Wno-invalid-offsetof -g   -o CMakeFiles/nameservice.dir/WFNameService.cc.o -c /home/wakk/cpp_learn/workflow/src/nameservice/WFNameService.cc",
+  "file": "/home/wakk/cpp_learn/workflow/src/nameservice/WFNameService.cc"
+},
+{
+  "directory": "/home/wakk/cpp_learn/workflow/build/src/nameservice",
+  "command": "/usr/bin/clang++-12   -I/home/wakk/cpp_learn/workflow/_include/workflow   -Wall -fPIC -pipe -std=c++11 -fno-exceptions -Wno-invalid-offsetof -g   -o CMakeFiles/nameservice.dir/WFDnsResolver.cc.o -c /home/wakk/cpp_learn/workflow/src/nameservice/WFDnsResolver.cc",
+  "file": "/home/wakk/cpp_learn/workflow/src/nameservice/WFDnsResolver.cc"
+},
+{
+  "directory": "/home/wakk/cpp_learn/workflow/build/src/nameservice",
+  "command": "/usr/bin/clang++-12   -I/home/wakk/cpp_learn/workflow/_include/workflow   -Wall -fPIC -pipe -std=c++11 -fno-exceptions -Wno-invalid-offsetof -g   -o CMakeFiles/nameservice.dir/WFServiceGovernance.cc.o -c /home/wakk/cpp_learn/workflow/src/nameservice/WFServiceGovernance.cc",
+  "file": "/home/wakk/cpp_learn/workflow/src/nameservice/WFServiceGovernance.cc"
+},
+{
+  "directory": "/home/wakk/cpp_learn/workflow/build/src/nameservice",
+  "command": "/usr/bin/clang++-12   -I/home/wakk/cpp_learn/workflow/_include/workflow   -Wall -fPIC -pipe -std=c++11 -fno-exceptions -Wno-invalid-offsetof -g   -o CMakeFiles/nameservice.dir/UpstreamPolicies.cc.o -c /home/wakk/cpp_learn/workflow/src/nameservice/UpstreamPolicies.cc",
+  "file": "/home/wakk/cpp_learn/workflow/src/nameservice/UpstreamPolicies.cc"
+},
+{
+  "directory": "/home/wakk/cpp_learn/workflow/build/src/server",
+  "command": "/usr/bin/clang++-12   -I/home/wakk/cpp_learn/workflow/_include/workflow   -Wall -fPIC -pipe -std=c++11 -fno-exceptions -Wno-invalid-offsetof -g   -o CMakeFiles/server.dir/WFServer.cc.o -c /home/wakk/cpp_learn/workflow/src/server/WFServer.cc",
+  "file": "/home/wakk/cpp_learn/workflow/src/server/WFServer.cc"
+},
+{
+  "directory": "/home/wakk/cpp_learn/workflow/build/src/server",
+  "command": "/usr/bin/clang++-12   -I/home/wakk/cpp_learn/workflow/_include/workflow   -Wall -fPIC -pipe -std=c++11 -fno-exceptions -Wno-invalid-offsetof -g   -o CMakeFiles/server.dir/WFMySQLServer.cc.o -c /home/wakk/cpp_learn/workflow/src/server/WFMySQLServer.cc",
+  "file": "/home/wakk/cpp_learn/workflow/src/server/WFMySQLServer.cc"
+},
+{
+  "directory": "/home/wakk/cpp_learn/workflow/build/src/client",
+  "command": "/usr/bin/clang++-12   -I/home/wakk/cpp_learn/workflow/_include/workflow   -Wall -fPIC -pipe -std=c++11 -fno-exceptions -Wno-invalid-offsetof -g   -o CMakeFiles/client.dir/WFDnsClient.cc.o -c /home/wakk/cpp_learn/workflow/src/client/WFDnsClient.cc",
+  "file": "/home/wakk/cpp_learn/workflow/src/client/WFDnsClient.cc"
+},
+{
+  "directory": "/home/wakk/cpp_learn/workflow/build/src/client",
+  "command": "/usr/bin/clang++-12   -I/home/wakk/cpp_learn/workflow/_include/workflow   -Wall -fPIC -pipe -std=c++11 -fno-exceptions -Wno-invalid-offsetof -g   -o CMakeFiles/client.dir/WFMySQLConnection.cc.o -c /home/wakk/cpp_learn/workflow/src/client/WFMySQLConnection.cc",
+  "file": "/home/wakk/cpp_learn/workflow/src/client/WFMySQLConnection.cc"
+},
+{
+  "directory": "/home/wakk/cpp_learn/workflow/build/src/client",
+  "command": "/usr/bin/clang++-12   -I/home/wakk/cpp_learn/workflow/_include/workflow   -Wall -fPIC -pipe -std=c++11 -fno-exceptions -Wno-invalid-offsetof -g   -o CMakeFiles/client.dir/WFConsulClient.cc.o -c /home/wakk/cpp_learn/workflow/src/client/WFConsulClient.cc",
+  "file": "/home/wakk/cpp_learn/workflow/src/client/WFConsulClient.cc"
+}
+]
